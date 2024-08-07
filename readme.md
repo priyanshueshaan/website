@@ -13,3 +13,8 @@ Create the following directories/folders in your project root:
 
 ## Step 3: Create Index File
 Inside the `html` directory, create a file named `index.html`.
+and inside `index.html` link bootstrap `CSS` and `js` links..from bootstrap website.
+
+## Step 4: Add navbar into Index File
+Inside `index.html` paste `NAVBAR` component from bootstrap.
+and edit it.
