@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  height: 6rem;
+}
+.navbar-brand {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 26px;
+}
+
+nav ul li a {
+  margin-left: 6rem;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
